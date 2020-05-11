@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home">
+        <menu>
+            <item
+                android:id="@+id/home"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="Home">
+
+            </item>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_library_books_black_24dp"
+                android:title="About">
+
+            </item>
+
+        </menu>
+
+    </item>
+
+    <item android:title="Learn">
+        <menu>
+            <item
+                android:id="@+id/myproject"
+                android:icon="@drawable/ic_collections_bookmark_black_24dp"
+                android:title="MyProjects">
+
+            </item>
+        </menu>
+
+    </item>
+
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/ic_star_half_black_24dp"
+                android:title="Rate">
+
+            </item>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share">
+
+            </item>
+        </menu>
+
+    </item>
+    <item android:title="Profile">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="Profile">
+
+            </item>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_vpn_key_black_24dp"
+                android:title="Logout">
+
+            </item>
+
+
+        </menu>
+
+    </item>
+
+</menu>

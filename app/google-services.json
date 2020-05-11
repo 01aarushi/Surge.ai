@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862887055610",
+    "firebase_url": "https://surge-428e1.firebaseio.com",
+    "project_id": "surge-428e1",
+    "storage_bucket": "surge-428e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862887055610:android:fa374f37c4f3074a1eb943",
+        "android_client_info": {
+          "package_name": "com.hfad.surge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862887055610-1saqrvmrbfekcfju34nfsvo4d79iu2vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.surge",
+            "certificate_hash": "82d28b212216a37fef075a138051024294865355"
+          }
+        },
+        {
+          "client_id": "862887055610-b3duvijp8u07a1pgfe89mngr9qhshiam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdU0Ljh5LquqkXn6OANHQiUdOLR9rmgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862887055610-b3duvijp8u07a1pgfe89mngr9qhshiam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
